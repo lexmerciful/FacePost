@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25948757326",
+    "project_id": "facepostapp22",
+    "storage_bucket": "facepostapp22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25948757326:android:d552fcaa45bc2459c7d21f",
+        "android_client_info": {
+          "package_name": "com.lex.facepost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25948757326-h7lgggqebei2e3ccucij3rpq3nfa65pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8N8N75lnzJIjau879rjHTH_JvJeXNuUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25948757326-h7lgggqebei2e3ccucij3rpq3nfa65pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
